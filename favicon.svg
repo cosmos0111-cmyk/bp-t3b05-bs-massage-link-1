@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity cf94500e43d9a5e0</metadata>
-  <rect width="64" height="64" rx="16" fill="hsl(220 62% 43%)"/>
-  <path d="M30 0h34v64H16Z" fill="hsl(348 55% 75%)" opacity="0.82"/>
-  <g transform="rotate(15 32 32)" opacity="0.42"><path d="M14 43 32 13l18 30Z" fill="none" stroke="#101418" stroke-width="7" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">BB</text>
+  <title>발산 마사지 링크</title>
+  <rect width="64" height="64" rx="10" fill="hsl(220 56% 27%)"/>
+  <g transform="rotate(270 32 32)"><rect x="14" y="34" width="9" height="16" rx="2" fill="hsl(220 24% 96%)"/><rect x="27" y="26" width="9" height="24" rx="2" fill="hsl(220 24% 96%)"/><rect x="40" y="16" width="9" height="34" rx="2" fill="hsl(355 68% 67%)"/></g>
 </svg>
